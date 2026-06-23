@@ -1,293 +1,236 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,25:6D28D9,50:7C3AED,75:6366F1,100:3B82F6&text=Frontend%20Developer&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Modern%20UI%20Architect%20%E2%80%A2%20React%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Frontend%20Developer%20%7C%20Thumbnail%20Designer&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Senior+Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript+Specialist;UI%2FUX+Focused+Product+Engineer;Building+Scalable+Modern+Web+Applications;Performance+Driven+Frontend+Architect"/>
-
-<br/>
-
-![Frontend Engineer](https://img.shields.io/badge/Frontend-Engineer-7C3AED?style=for-the-badge&logo=react&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-6366F1?style=for-the-badge&logo=github&logoColor=white)
-![Location](https://img.shields.io/badge/Location-India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Frontend+Developer;React+%7C+Next.js+Engineer;UI%2FUX+Focused+Creative+Technologist;Performance+Driven+Web+Builder;YouTube+Thumbnail+Designer;Modern+Digital+Product+Creator" />
 
 <br/>
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-7C3AED?style=for-the-badge&logo=react&logoColor=white)
+![UI/UX Designer](https://img.shields.io/badge/UI%2FUX_Designer-8B5CF6?style=for-the-badge&logo=figma&logoColor=white)
+![Thumbnail Designer](https://img.shields.io/badge/Thumbnail_Designer-A855F7?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Creative Technologist](https://img.shields.io/badge/Creative_Technologist-6366F1?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br/>
+
+![Location](https://img.shields.io/badge/Mumbai%2C_India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<a href="https://your-portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://behance.net/yourusername">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6366F1&label=Followers)
-
-![](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=4F46E5&label=Stars)
+![](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=8B5CF6)
+![](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
 
 </div>
 
 ---
 
-# About
+# About Me
 
-Frontend Engineer focused on crafting highly scalable, performant, and accessible web applications that deliver exceptional user experiences across enterprise and consumer-facing products.
+Frontend Developer and Creative Visual Designer passionate about crafting high-performance digital experiences that blend modern engineering with impactful visual storytelling.
 
-I specialize in translating complex business requirements into elegant frontend architectures using modern JavaScript ecosystems, component-driven development methodologies, and product-centric engineering principles.
+I specialize in building scalable web applications using the React ecosystem while maintaining a strong focus on user experience, accessibility, responsiveness, and performance optimization. My development approach combines clean architecture, reusable design systems, and modern frontend tooling to create enterprise-grade interfaces.
 
-My engineering approach combines:
+Alongside development, I work as a YouTube Thumbnail Designer focused on CTR optimization, audience engagement, visual hierarchy, and brand consistency. I leverage design psychology, typography, and strategic composition to create visuals that drive clicks and improve content performance.
 
-- Scalable frontend architecture
-- Performance-first development
-- Accessibility-driven user experiences
-- Enterprise-grade component systems
-- Modern React & Next.js ecosystems
-- Design system engineering
-- Cross-functional product collaboration
-- Frontend observability and quality assurance
+### What I Bring
+
+- React & Next.js Application Development
+- Modern UI Engineering
+- Component-Based Architecture
+- Design Systems Development
+- Accessibility-First Interfaces
+- Performance Optimization
+- SEO-Friendly Frontend Solutions
+- Responsive Web Design
+- Creative Direction
+- Thumbnail Design & Visual Branding
+- Content Marketing Visual Assets
+- Conversion-Focused Design
 
 ### Open To
 
-- Senior Frontend Engineering Roles
-- React & Next.js Opportunities
-- Frontend Architecture Consulting
-- Open Source Collaboration
-- Product Engineering Teams
-- Design System Leadership
-- Technical Mentorship
+- Frontend Engineering Opportunities
+- React / Next.js Projects
+- UI Development Contracts
+- Design System Development
+- Creative Design Collaborations
+- Thumbnail Design Projects
+- Open Source Contributions
+- Freelance Consulting
 
 ---
 
-# Tech Stack
+# Frontend Tech Stack
+
+<div align="center">
 
 ## Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
 ## Frontend Frameworks
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
 
 ## Styling & Design Systems
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents" />
-</p>
+<img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,materialui" />
 
 ## State Management
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=redux" />
-</p>
 
 ## Build Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vite,webpack,babel" />
-</p>
+<img src="https://skillicons.dev/icons?i=webpack,vite,npm,yarn" />
 
 ## Testing
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=jest,cypress" />
-</p>
 
-## DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,vercel,netlify" />
-</p>
+</div>
 
 ---
 
-# Frontend Engineering Expertise
+# Creative Design Toolkit
+
+<div align="center">
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+![Lightroom](https://img.shields.io/badge/Lightroom-001D3D?style=for-the-badge&logo=adobelightroom)
+![After_Effects](https://img.shields.io/badge/After_Effects-1A0B2E?style=for-the-badge&logo=adobeaftereffects)
+
+<br/>
+
+![Visual Branding](https://img.shields.io/badge/Visual_Branding-7C3AED?style=flat-square)
+![Thumbnail Design](https://img.shields.io/badge/Thumbnail_Design-8B5CF6?style=flat-square)
+![Creative Strategy](https://img.shields.io/badge/Creative_Strategy-A855F7?style=flat-square)
+![Content Marketing](https://img.shields.io/badge/Content_Marketing-6366F1?style=flat-square)
+![Visual Storytelling](https://img.shields.io/badge/Visual_Storytelling-4F46E5?style=flat-square)
+
+</div>
+
+---
+
+# Frontend Expertise
 
 | Domain | Proficiency | Details |
 |----------|----------|----------|
-| React Ecosystem | Expert | Advanced React patterns, Hooks, Suspense, Concurrent Features, Context Optimization |
-| Next.js Development | Expert | SSR, ISR, SSG, Server Components, Edge Runtime Architecture |
-| TypeScript Engineering | Expert | Enterprise-grade typing strategies, Generics, Utility Types, API Contracts |
-| Component Architecture | Expert | Atomic Design, Reusable UI Systems, Scalable Component Libraries |
-| Design Systems | Advanced | Token-driven design systems, Storybook, Accessibility Standards |
-| Performance Optimization | Expert | Core Web Vitals, Bundle Optimization, Lazy Loading, Code Splitting |
-| Accessibility (WCAG) | Advanced | WCAG 2.2 Compliance, Keyboard Navigation, Semantic Architecture |
-| State Management | Advanced | Redux Toolkit, Zustand, React Query, Context Optimization |
-| Frontend Security | Advanced | XSS Prevention, CSP, Secure Authentication Flows |
-| Testing & QA | Advanced | Jest, React Testing Library, Cypress, E2E Automation |
+| React Development | Advanced | Component architecture, hooks, reusable systems |
+| Next.js Development | Advanced | SSR, SSG, ISR, App Router |
+| UI Architecture | Advanced | Scalable frontend structures |
+| Performance Optimization | Advanced | Core Web Vitals, code splitting |
+| Responsive Design | Expert | Mobile-first design implementation |
+| Accessibility | Advanced | WCAG compliance and inclusive interfaces |
+| TypeScript | Advanced | Strongly typed enterprise applications |
+| Design Systems | Expert | Component libraries and tokens |
+| SEO Optimization | Advanced | Technical and frontend SEO |
+| Modern CSS | Expert | Tailwind, SCSS, animations, layouts |
+
+---
+
+# Thumbnail Design Expertise
+
+| Domain | Proficiency | Details |
+|----------|----------|----------|
+| YouTube Thumbnail Design | Expert | High-impact conversion visuals |
+| CTR Optimization | Advanced | Click-through rate focused design |
+| Visual Hierarchy | Expert | Strategic focus guidance |
+| Branding Consistency | Advanced | Creator brand alignment |
+| Color Psychology | Advanced | Attention-driven color systems |
+| Typography | Expert | Readability and engagement |
+| Social Media Design | Advanced | Cross-platform content assets |
+| Audience Retention Design | Advanced | Curiosity and engagement factors |
+| A/B Creative Testing | Advanced | Data-driven design improvements |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Enterprise Dashboard Platform</b></summary>
+<summary><b>Frontend SaaS Dashboard</b></summary>
 
-### Overview
+### Project Description
 
-Large-scale analytics dashboard designed for enterprise operations management with advanced data visualization, role-based access control, and real-time reporting infrastructure.
+Enterprise-grade analytics dashboard designed for modern SaaS businesses.
 
-| Category | Details |
-|-----------|-----------|
-| Stack | React, TypeScript, Redux Toolkit, Material UI |
-| Architecture | Micro Frontend Architecture |
-| Performance | Lighthouse 98+ |
-| Accessibility | WCAG 2.2 AA |
-| Security | Role-Based Authorization |
-| Impact | Reduced reporting time by 70% |
-| Repository | https://github.com/yourusername/dashboard-platform |
+| Metric | Value |
+|----------|----------|
+| Stack | React, TypeScript, Tailwind |
+| Performance | 98 Lighthouse |
+| Scalability | High |
+| Accessibility | WCAG Compliant |
+| Design Quality | Premium |
+| SEO | Optimized |
+| Repository | Private / Public |
 
-#### Engineering Highlights
-
-- Modular component architecture
-- Shared design system integration
-- Advanced caching strategies
-- Data virtualization for large datasets
-- Enterprise-grade state management
+Professional dashboard architecture with modular components, scalable state management, responsive layouts, and advanced data visualization capabilities.
 
 </details>
 
 <details>
-<summary><b>SaaS Analytics Application</b></summary>
+<summary><b>Next.js Digital Product Platform</b></summary>
 
-### Overview
+### Project Description
 
-Multi-tenant SaaS platform providing real-time business analytics, KPI monitoring, and customer intelligence dashboards.
+Modern product experience platform built using Next.js.
 
-| Category | Details |
-|-----------|-----------|
-| Stack | Next.js, TypeScript, Tailwind CSS |
-| Architecture | Domain-Driven Frontend |
-| Performance | Core Web Vitals Optimized |
-| Accessibility | Screen Reader Friendly |
-| Security | JWT + RBAC |
-| Impact | Increased user retention by 32% |
-| Repository | https://github.com/yourusername/saas-analytics |
+| Metric | Value |
+|----------|----------|
+| Stack | Next.js, TypeScript |
+| Performance | 97 Lighthouse |
+| Scalability | Enterprise |
+| Accessibility | High |
+| Design Quality | Premium |
+| SEO | Advanced |
+| Repository | Public |
 
-#### Engineering Highlights
-
-- SSR & ISR implementation
-- Dynamic routing optimization
-- Edge caching strategies
-- Advanced analytics visualization
+Built with SEO-first architecture, optimized loading strategy, accessibility standards, and scalable component-driven design.
 
 </details>
 
 <details>
-<summary><b>E-Commerce Frontend</b></summary>
+<summary><b>YouTube Creator Branding System</b></summary>
 
-### Overview
+### Project Description
 
-Modern commerce experience engineered for performance, scalability, and conversion optimization.
+Complete visual identity and thumbnail design system for creators.
 
-| Category | Details |
-|-----------|-----------|
-| Stack | React, Next.js, Stripe |
-| Architecture | Headless Commerce |
-| Performance | Sub-second page loads |
-| Accessibility | ADA Compliant |
-| Security | PCI-Aware Integrations |
-| Impact | Improved conversion rates |
-| Repository | https://github.com/yourusername/ecommerce-frontend |
+| Metric | Value |
+|----------|----------|
+| Stack | Photoshop, Figma |
+| Performance | High CTR |
+| Scalability | Multi-channel |
+| Accessibility | Strong Contrast |
+| Design Quality | Agency Level |
+| SEO | Visual SEO |
+| Repository | Portfolio Project |
 
-#### Engineering Highlights
-
-- Dynamic product rendering
-- Optimized checkout workflows
-- Server-side rendering
-- Advanced search experiences
-
-</details>
-
-<details>
-<summary><b>Design System Library</b></summary>
-
-### Overview
-
-Comprehensive enterprise design system powering multiple products across engineering teams.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | React, Storybook, TypeScript |
-| Architecture | Component Driven |
-| Performance | Tree-Shakeable |
-| Accessibility | WCAG Standards |
-| Security | Dependency Governance |
-| Impact | Reduced UI duplication by 80% |
-| Repository | https://github.com/yourusername/design-system |
-
-#### Engineering Highlights
-
-- Design tokens
-- Component documentation
-- Theming architecture
-- Automated release workflows
-
-</details>
-
-<details>
-<summary><b>Real-Time Collaboration App</b></summary>
-
-### Overview
-
-Collaborative productivity platform supporting live synchronization and team workflows.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | React, TypeScript, WebSockets |
-| Architecture | Event Driven |
-| Performance | Real-Time Rendering |
-| Accessibility | Keyboard Friendly |
-| Security | End-to-End Session Controls |
-| Impact | Improved collaboration efficiency |
-| Repository | https://github.com/yourusername/realtime-app |
-
-#### Engineering Highlights
-
-- Real-time synchronization
-- Presence indicators
-- Optimistic updates
-- Offline-first architecture
-
-</details>
-
-<details>
-<summary><b>Portfolio CMS Platform</b></summary>
-
-### Overview
-
-Headless CMS platform enabling creators to manage dynamic portfolios with modern frontend experiences.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | Next.js, TypeScript, GraphQL |
-| Architecture | Headless CMS |
-| Performance | Static Generation |
-| Accessibility | AA Compliant |
-| Security | API Security Controls |
-| Impact | Improved content publishing workflow |
-| Repository | https://github.com/yourusername/portfolio-cms |
-
-#### Engineering Highlights
-
-- GraphQL integrations
-- CMS abstraction layer
-- Dynamic content rendering
-- SEO optimization architecture
+Developed branding guidelines, thumbnail templates, typography systems, and engagement-focused visual frameworks.
 
 </details>
 
@@ -295,60 +238,50 @@ Headless CMS platform enabling creators to manage dynamic portfolios with modern
 
 # Professional Experience
 
-## Senior Frontend Engineer
+## Frontend Development Experience
 
-### Company Name
+### Senior Frontend Developer
+**Digital Product Studio**
 
-**Jan 2023 — Present**
+**2023 — Present**
 
-#### Responsibilities
+Building scalable frontend applications focused on performance, accessibility, maintainability, and exceptional user experiences.
 
-- Led enterprise frontend architecture initiatives
-- Developed scalable React ecosystems
-- Introduced component-driven development standards
-- Established performance engineering practices
-- Collaborated closely with product, design, and backend teams
+#### Scope of Work
 
-#### Key Contributions
+- React and Next.js development
+- Design system implementation
+- UI architecture planning
+- Accessibility optimization
+- Performance tuning
+- Cross-functional collaboration
+- Component library development
 
-- Reduced bundle size significantly
-- Improved Core Web Vitals scores
-- Standardized UI component architecture
-- Accelerated feature delivery velocity
-
-#### Skill Set
-
-![React](https://img.shields.io/badge/React-7C3AED?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-6366F1?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square)
-![Performance](https://img.shields.io/badge/Performance-312E81?style=flat-square)
+**Skills:** React • Next.js • TypeScript • Tailwind CSS • Redux • UI Engineering
 
 ---
 
-## Frontend Developer
+## Creative Design Experience
 
-### Company Name
+### Creative Thumbnail Designer
 
-**Jun 2020 — Dec 2022**
+**Freelance Creative Studio**
 
-#### Responsibilities
+**2022 — Present**
 
-- Developed modern web applications
-- Collaborated with UI/UX teams
-- Implemented responsive interfaces
-- Built reusable frontend components
+Designing high-performing thumbnails and visual assets for content creators and digital brands.
 
-#### Key Contributions
+#### Scope of Work
 
-- Modernized legacy frontend systems
-- Improved application maintainability
-- Enhanced accessibility compliance
+- Thumbnail design
+- Brand identity alignment
+- Visual storytelling
+- CTR optimization
+- Typography systems
+- Social media assets
+- Creative strategy
 
-#### Skill Set
-
-![React](https://img.shields.io/badge/React-7C3AED?style=flat-square)
-![Redux](https://img.shields.io/badge/Redux-6366F1?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-4F46E5?style=flat-square)
+**Skills:** Photoshop • Figma • Branding • Content Design • Visual Marketing
 
 ---
 
@@ -358,12 +291,11 @@ Headless CMS platform enabling creators to manage dynamic portfolios with modern
 
 | Recognition | Details |
 |------------|------------|
-| Frontend Excellence | Delivered enterprise-scale frontend platforms |
-| Open Source Contributor | Contributed to community-driven frontend ecosystems |
-| Performance Optimization | Achieved Lighthouse scores above industry benchmarks |
-| Design System Leadership | Built reusable UI platforms across multiple products |
-| Technical Mentorship | Guided engineers on frontend architecture and best practices |
-| Product Innovation | Launched scalable customer-facing applications |
+| Frontend Development | Delivered scalable production-ready applications |
+| UI/UX Design | Created user-centered interface systems |
+| Creative Design | Produced high-performing creator assets |
+| Open Source Contributions | Contributed to community-driven projects |
+| Community Engagement | Shared knowledge through development and design communities |
 
 </div>
 
@@ -371,29 +303,22 @@ Headless CMS platform enabling creators to manage dynamic portfolios with modern
 
 # Certifications
 
-## Meta
+## Frontend
 
-![Meta Front-End Developer](https://img.shields.io/badge/Meta-Front--End%20Developer-7C3AED?style=for-the-badge&logo=meta)
+![Meta](https://img.shields.io/badge/Meta_Frontend-0866FF?style=for-the-badge&logo=meta)
+![Google](https://img.shields.io/badge/Google_UX-4285F4?style=for-the-badge&logo=google)
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp)
 
-## Google
+## Design
 
-![Google UX](https://img.shields.io/badge/Google-UX%20Design-6366F1?style=for-the-badge&logo=google)
+![Adobe](https://img.shields.io/badge/Adobe_Certified-FF0000?style=for-the-badge&logo=adobe)
+![Figma](https://img.shields.io/badge/Figma_Professional-F24E1E?style=for-the-badge&logo=figma)
 
-## Microsoft
+## Cloud & Development
 
-![Microsoft](https://img.shields.io/badge/Microsoft-Azure-4F46E5?style=for-the-badge&logo=microsoft)
-
-## AWS
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-312E81?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-JavaScript-7C3AED?style=for-the-badge&logo=oracle)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-6366F1?style=for-the-badge&logo=cisco)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco)
 
 ---
 
@@ -401,15 +326,29 @@ Headless CMS platform enabling creators to manage dynamic portfolios with modern
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-6366F1?style=for-the-badge&logo=hackerrank)](https://hackerrank.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks)](https://geeksforgeeks.org)
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4F46E5?style=for-the-badge&logo=geeksforgeeks)](https://geeksforgeeks.org)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://hackerrank.com)
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-312E81?style=for-the-badge&logo=codechef)](https://codechef.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef)](https://codechef.com)
 
-[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Profile-7C3AED?style=for-the-badge&logo=frontendmentor)](https://frontendmentor.io)
+</div>
+
+---
+
+# Design Portfolio
+
+<div align="center">
+
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance)](https://behance.net)
+
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble)](https://dribbble.com)
+
+[![Adobe Portfolio](https://img.shields.io/badge/Adobe_Portfolio-FF0000?style=for-the-badge&logo=adobe)](https://portfolio.adobe.com)
+
+[![Figma Community](https://img.shields.io/badge/Figma_Community-F24E1E?style=for-the-badge&logo=figma)](https://figma.com/community)
 
 </div>
 
@@ -421,7 +360,7 @@ Headless CMS platform enabling creators to manage dynamic portfolios with modern
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -433,7 +372,7 @@ Headless CMS platform enabling creators to manage dynamic portfolios with modern
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=2&column=4" />
 
 </div>
 
@@ -464,33 +403,33 @@ Headless CMS platform enabling creators to manage dynamic portfolios with modern
 ```yaml
 Learning:
   - Advanced React Patterns
-  - Frontend Observability
-  - Web Performance Engineering
-  - Edge Computing
+  - Next.js Ecosystem
+  - Frontend Architecture
+  - Design Systems
 
 Building:
-  - Enterprise Design Systems
-  - Scalable SaaS Platforms
-  - Next.js Applications
-  - Open Source Tooling
+  - Scalable Web Applications
+  - Premium UI Libraries
+  - Portfolio Experiences
+  - Open Source Components
+
+Designing:
+  - High CTR Thumbnails
+  - Brand Identity Systems
+  - Content Marketing Assets
+  - Creative Campaign Visuals
 
 Exploring:
-  - AI Enhanced Frontend Development
-  - Server Components
-  - Micro Frontends
-  - Frontend Infrastructure
+  - AI Assisted Design
+  - Motion Interfaces
+  - Performance Engineering
+  - Product Strategy
 
-Improving:
-  - Accessibility Expertise
-  - Architecture Leadership
-  - System Design
-  - Technical Mentorship
-
-Open_To:
-  - Senior Frontend Roles
-  - Staff Engineer Opportunities
-  - Open Source Collaboration
-  - Product Engineering Teams
+OpenTo:
+  - Frontend Roles
+  - Freelance Projects
+  - Creative Collaborations
+  - Open Source Contributions
 ```
 
 ---
@@ -499,24 +438,28 @@ Open_To:
 
 <div align="center">
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail"/>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-312E81?style=for-the-badge&logo=vercel"/>
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://x.com/yourusername">
-<img src="https://img.shields.io/badge/Twitter/X-Follow-7C3AED?style=for-the-badge&logo=x"/>
+<a href="https://behance.net/yourusername">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="https://dribbble.com/yourusername">
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
 </a>
 
 </div>
@@ -525,8 +468,8 @@ Open_To:
 
 <div align="center">
 
-### *"Exceptional user experiences emerge where engineering precision meets product thinking."*
+### "Building meaningful digital experiences where engineering precision meets creative excellence."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4C1D95,25:6D28D9,50:7C3AED,75:6366F1,100:3B82F6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7"/>
 
 </div>
